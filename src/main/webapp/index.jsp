@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World....This part of the program is sponsered by Snj and Srj!</h2>
+<h2>Hello World..Ngoh emsee guandongwa</h2>
 </body>
 </html>
